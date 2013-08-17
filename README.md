@@ -21,4 +21,4 @@ In ubuntu or Debian, you can enter this command to install.
 
 $ sudo apt-get install libssl-dev
 
-If you have any problem or suggestion, please contact me.
+If you have any problem or suggestion, please feel free to contact me.
