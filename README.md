@@ -9,7 +9,7 @@ This is my first github project.
 
 Since my linux server OS is too old to install or run new language tool, 
 
-I decide to write a uploader in bash shell language.
+I decided to write a uploader in bash shell language.
 
 This shell script will execute Netcat SLL(nssl), so you have to install it.
 
