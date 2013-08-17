@@ -4,7 +4,10 @@
 #
 # usage: ./gdu.sh yourfile
 #
-# more reference on https://developers.google.com/drive/
+# more reference on https://developers.google.com/gdata/docs/auth/overview
+# https://developers.google.com/accounts/docs/OAuth2InstalledApp
+# https://developers.google.com/accounts/docs/OAuth2Login
+# https://developers.google.com/drive/
 # Quickstart page.
 #
 #
