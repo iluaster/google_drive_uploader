@@ -3,7 +3,9 @@ Google_drive_uploader
 
 Google Drive Uploader bash shell version
 
-usage: ./gdu.sh yourfile
+usage: 
+
+> ./gdu.sh yourfile
 
 This is my first github project.
 
