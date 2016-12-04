@@ -21,6 +21,6 @@ Download & Compile it with libssl.
 
 In ubuntu or Debian, you can enter this command to install.
 
-$ sudo apt-get install libssl-dev
+> sudo apt-get install libssl-dev
 
 If you have any problem or suggestion, please feel free to contact me.
