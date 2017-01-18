@@ -19,7 +19,7 @@ http://sourceforge.net/projects/nssl/
 
 Download & Compile it with libssl.
 
-In ubuntu or Debian, you can enter this command to install.
+In Ubuntu or Debian, you can enter this command to install.
 
 > sudo apt-get install libssl-dev
 
