@@ -23,4 +23,16 @@ In Ubuntu or Debian, you can enter this command to install.
 
 > sudo apt-get install libssl-dev
 
+If you encounter any SSL connection problems when you using nssl command tool,
+
+you can use ncat tool to upload file instead.
+
+In Ubuntu or Debian, you can enter this command to install ncat.
+
+> sudo apt-get install nmap
+
+"ncat --ssl" command can be substituted for "nssl" command.
+
+> ncat --ssl ssl_server 443
+
 If you have any problem or suggestion, please feel free to contact me.
