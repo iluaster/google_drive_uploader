@@ -9,9 +9,9 @@ usage:
 
 This is my first github project.
 
-Since my linux server OS is too old to install or run new language tool, 
+Since my linux server OS is too old to install or run a new language tool, 
 
-I decided to write a uploader in bash shell language.
+I decided to write an uploader in bash shell language.
 
 This shell script will execute Netcat SSL(nssl), so you have to install it.
 
@@ -25,7 +25,7 @@ In Ubuntu or Debian, you can enter this command to install.
 
 If you encounter any SSL connection problems when you using nssl command tool,
 
-you can use ncat tool to upload file instead.
+you can use ncat tool to upload files instead.
 
 In Ubuntu or Debian, you can enter this command to install ncat.
 
@@ -35,4 +35,4 @@ In Ubuntu or Debian, you can enter this command to install ncat.
 
 > ncat --ssl ssl_server 443
 
-If you have any problem or suggestion, please feel free to contact me.
+If you have any further queries, please do not hesitate to contact me.
